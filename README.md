@@ -12,9 +12,13 @@ Competências
 Registros de formações em qualidade e selos de habilidades validadas pela IBM:
 
 Qualidade e Gestão:
+
     * Software Test Manager (ASTMCTM)
+    
     * DevOps Quality Assurance (EngineerTM - ORGTM)
+    
     * ISO 9001 Quality Management Associate (SkillFront)
+
 
  Habilidades e Emblemas (IBM):
      [Perfil Credly: Visualizar Crachás e Carteira de Habilidades](https://www.credly.com/users/luciana-fonseca-da-cruz)
