@@ -1,4 +1,4 @@
- Engenheira QA / Requisitos
+ Engenheira QA / Requisitos - Engenheira QA IA
 
 Atuo com análise de qualidade, engenharia de requisitos e segurança da informação. Automação com Python desde 2021, integrando processos de teste a fluxos de CI/CD.
 
