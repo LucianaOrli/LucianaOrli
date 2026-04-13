@@ -1,5 +1,8 @@
  Engenheira QA / Requisitos - Engenheira QA IA
 
+📂 [Projeto Principal: Lux by Or - Framework de Automação IA-Ready](https://github.com/LucianaOrli/lux-by-or)
+
+
 Atuo com análise de qualidade, engenharia de requisitos e segurança da informação. Automação com Python desde 2021, integrando processos de teste a fluxos de CI/CD.
 
 Competências
