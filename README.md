@@ -23,7 +23,20 @@ Qualidade e Gestão:
     * ISO 9001 Quality Management Associate (SkillFront)
 
 
- Habilidades e Emblemas (IBM):
+ 
+ 
+🛡️ Certificações Internacionais (Validadores)
+
+* **QA Software Test Manager Accredited Certification (ASTMCTM)**
+  * **Registro de Validação:** 22991123101674
+  * [Validar Certificado Internacional](https://www.test-institute.org/International_Software_Test_Institute_Certificate_Validation_Tool.php)
+
+* **DevOps Quality Assurance Engineer™ Certification**
+  * **Registro de Validação:** 23944572973530
+  * [Validar Certificado Internacional](https://www.devops-certification.org/International_DevOps_Certification_Academy_Certificate_Validation_Tool.php)
+ 
+
+ Habilidades e Emblemas Treinamento (IBM):
      [Perfil Credly: Visualizar Crachás e Carteira de Habilidades](https://www.credly.com/users/luciana-fonseca-da-cruz)
 
 
@@ -31,3 +44,7 @@ Qualidade e Gestão:
 Automação de API & BDD: Framework com Python, Behave , Playwright e GitHub Actions.
 Automação Web/UI: Testes de interface com Pytest, Playwright e ferramentas modernas.
 Engenharia de Requisitos: Documentação técnica e critérios de aceitação (Shift-Left).
+
+* **ISO 9001 Quality Management Associate**
+  * **SkillFront** | Registro: 18933757762558
+  * [Validar Certificado Internacional](https://www.skillfront.com/Badges/)
