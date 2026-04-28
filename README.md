@@ -36,7 +36,8 @@ Qualidade e Gestão:
   * [Validar Certificado Internacional](https://www.devops-certification.org/International_DevOps_Certification_Academy_Certificate_Validation_Tool.php)
  
 
- Habilidades e Emblemas Treinamento (IBM):
+ Habilidades e Emblemas Treinamento Automação, Python e Dados – IBM
+Formação intensiva via plataforma IBM Watson, com foco em integração de IA e análise de dados (IBM):
      [Perfil Credly: Visualizar Crachás e Carteira de Habilidades](https://www.credly.com/users/luciana-fonseca-da-cruz)
 
 
