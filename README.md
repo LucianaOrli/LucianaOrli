@@ -46,6 +46,8 @@ Automação de API & BDD: Framework com Python, Behave , Playwright e GitHub Act
 Automação Web/UI: Testes de interface com Pytest, Playwright e ferramentas modernas.
 Engenharia de Requisitos: Documentação técnica e critérios de aceitação (Shift-Left).
 
+
 * **ISO 9001 Quality Management Associate**
+* **ISO/IEC 27001 Information Security Associate**
   * **SkillFront** | Registro: 18933757762558
   * [Validar Certificado Internacional](https://www.skillfront.com/Badges/)
